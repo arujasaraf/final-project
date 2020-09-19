@@ -15,7 +15,7 @@ backgroundImg2=loadImage("sky2.jpg")
 backgroundImg3=loadImage("sky3.png")
 }
 function setup() {
-  createCanvas(displayWidth-225,displayHeight - 145);
+  createCanvas(displayWidth-500,displayHeight - 145);
  //createSprite(400, 200, 50, 50);
   
   //creating sky

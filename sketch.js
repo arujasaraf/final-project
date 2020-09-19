@@ -28,7 +28,7 @@ function setup() {
  player.addImage(playerImage)
  player.scale=1.5;
 // creating the left and the right edge
- pillar=createSprite(displayWidth/1,displayHeight/2,10,displayHeight)
+ pillar=createSprite(displayWidth/2,displayHeight/2,10,displayHeight)
  pillar.visible=false
  pillar1=createSprite(diplayWidth/2,displayHeight/2,10,displayHeight)
  pillar1.visible=false
